@@ -12,3 +12,5 @@ Cleaned dataset Contains 1316 instances and 18 attributes.
 # Models:
 Used various classification models like Logistic Regression, K-Nearest Neighbour., Random Forest, Support Vector Machine.
 The parameters were tuned using hyperparameter tuning and the performance was evaluated using accuracy, precision, and recall.
+# Result:
+The final model achieved an accuracy of 85%. A confusion matrix and ROC curve were also produced to visualize the model's performance. 
